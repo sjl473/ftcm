@@ -31,7 +31,7 @@ PERMITTED ACTIONS
 
 STRICTLY PROHIBITED ACTIONS
 - You have no right to use this library in any project whatsoever (personal, internal, commercial, or otherwise).
-- You have no right to fork this repository. Author shall could send GitHub a DMCA takedown notice and list the exact fork URL(s) after founding a fork under this repo.
+- You have no right to fork this repository. Author shall keep the rights to send a DMCA takedown notice after founding a fork under this repo.
 - You have no right to submit pull requests, commits, or any changes.
 - You have no right to modify, adapt, or create derivative works.
 

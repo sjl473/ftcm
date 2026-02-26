@@ -10,6 +10,10 @@
 2. The library primarily focuses on **commercial loans**.  
    Other areas such as debit cards, payments, trading, equities and similar retail-banking functions are **out of scope** and will not be implemented.
 
+3. This project is faced on **business logic development**.  
+Features such as rate limiting, service registration & discovery, etc. belong to DevOps / operations-oriented development.  
+Therefore, this library does **not** involve or implement functionalities similar to open-source frameworks like Nacos, Hystrix, Resilience4j, etc.
+
 ## COPYRIGHT NOTICE
 
 **⚠️ STRICT COPYRIGHT & USAGE RESTRICTION**

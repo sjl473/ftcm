@@ -32,6 +32,7 @@ PERMITTED ACTIONS
 - You may view the source code.
 - You may download or clone the repository.
 - You may spread (share) links to this repository.
+- You may create an issue on the project.
 
 STRICTLY PROHIBITED ACTIONS
 - You have no right to use this library in any project whatsoever (personal, internal, commercial, or otherwise).

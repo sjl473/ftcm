@@ -31,11 +31,12 @@ PERMITTED ACTIONS
 
 STRICTLY PROHIBITED ACTIONS
 - You have no right to use this library in any project whatsoever (personal, internal, commercial, or otherwise).
-- You have no right to fork this repository.
+- You have no right to fork this repository. Author shall could send GitHub a DMCA takedown notice and list the exact fork URL(s) after founding a fork under this repo.
 - You have no right to submit pull requests, commits, or any changes.
 - You have no right to modify, adapt, or create derivative works.
 
 Only the original author ("I myself") is permitted to fork, pull request, commit, use, modify, or maintain this repository.
+
 
 LIABILITY
 The software is provided "AS IS". Any use of this library is strictly prohibited and is done entirely at the user's own risk. If you choose to use this software in violation of the above terms, all damage, loss, legal consequences, or liability shall fall fully on yourself. The author accepts no responsibility and shall not be liable in any way.

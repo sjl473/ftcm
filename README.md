@@ -1,6 +1,6 @@
 # FTCM
 
-**FTCM** (FinTech Common) is a common Kotlin library for FinTech applications, built on top of the Spring Framework (which the majority of commercial banks currently use).
+**FTCM** (FinTech Common) is a common Kotlin library for FinTech applications, built on top of the Spring Framework.
 
 ## Scope: What it implements and what it does not
 

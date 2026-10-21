@@ -47,3 +47,4 @@ LIABILITY
 The software is provided "AS IS". Any use of this library is strictly prohibited and is done entirely at the user's own risk. If you choose to use this software in violation of the above terms, all damage, loss, legal consequences, or liability shall fall fully on yourself. The author accepts no responsibility and shall not be liable in any way.
 
 By accessing or downloading this repository you agree to these terms.
+human edit 1 on main
